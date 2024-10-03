@@ -34,6 +34,8 @@
     <name>Minecraft Development</name>
     <vendor email="kyle@denwav.dev" url="https://mcdev.io/">minecraft-dev</vendor>
 
+    <idea-version since-build="211.*" until-build="243.*" />
+
     <description><![CDATA[
         Provides first-class support for every major Java Minecraft modding or plugin development platform, including:
         <ul>
